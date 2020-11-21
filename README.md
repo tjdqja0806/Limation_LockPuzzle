@@ -1,4 +1,4 @@
-#Project 1 : Limation
+Project 1 : Limation
 
 Keypad Puzzle Script
 
@@ -11,3 +11,4 @@ Explanation
 
 Game Scene
 
+![자물쇠 퍼즐](https://user-images.githubusercontent.com/74092254/99870580-8ad4bd80-2c17-11eb-93ae-3b5348135e80.png)
