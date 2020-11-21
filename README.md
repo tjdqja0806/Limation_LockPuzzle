@@ -1,6 +1,6 @@
 Project 1 : Limation
 
-Keypad Puzzle Script
+Lock Puzzle Script
 
 Explanation
 1. 4방향 버튼 클릭 시 보이지 않는 Text를 방향에 맞는 숫자로 설정
